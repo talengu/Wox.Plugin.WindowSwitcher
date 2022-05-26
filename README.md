@@ -1,7 +1,7 @@
 Wox.Plugin.WindowSwitcher
 ============================
 
-![demo](doc/demo.gif)
+![demo](https://user-images.githubusercontent.com/10290923/170521354-cfd5387f-4591-4fd8-87e9-25b40057433a.gif)
 
 ## Wox.Plugin.WindowSwitcher
 
