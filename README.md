@@ -27,7 +27,23 @@ Done List:
 
 `wpm install Window Switcher` 
 
+## QAs:
+
+### 1. you may find some windows not show
+
+  you can add  app name in [window_searcher.py](https://github.com/talengu/Wox.Plugin.WindowSwitcher/blob/c6397c503cff234c489cc820dab29e35d9809b58/window_searcher.py#L23)
+
+  such like: 
+```
+_l = ["VirtualBox", "Chrome", "Code", "obsidian","YOUR APP NAME"] # not case sensitive
+```
+
+  then add some icos to `images/...ico`, img name should be low case of "your app name"
+
+  if bug, try one try please!
  
+
+
 ## Refs
 For the respect of the great peoples and the internet.
 
