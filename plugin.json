@@ -1,0 +1,12 @@
+{
+    "ID":"1D745DC3DD0511EC965884144DB47B38",
+    "ActionKeyword":"w",
+    "Name":"Window Switcher",
+    "Description":"search the windows in windows and a python plugin",
+    "Author":"gutiancheng",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/talengu/Wox.Plugin.WindowSwitcher",
+    "IcoPath":"images\\default.ico",
+    "ExecuteFileName":"main.py"
+}
