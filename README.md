@@ -41,6 +41,7 @@ _l = ["VirtualBox", "Chrome", "Code", "obsidian","YOUR APP NAME"] # not case sen
   then add some icos to `images/...ico`, img name should be low case of "your app name"
 
   if bug, try one try please!
+then hit me in [issue](https://github.com/talengu/Wox.Plugin.WindowSwitcher/issues/new)
  
 
 
